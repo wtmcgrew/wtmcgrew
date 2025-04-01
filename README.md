@@ -1,3 +1,5 @@
+![Whitney McGrew Banner](./whitney-mcgrew-banner.png)
+
 # 👋 Hi, I'm Whitney McGrew
 
 ### 💼 Senior Credit Analyst | 📊 Data Analytics Enthusiast | 🧠 SQL + Excel Power User
